@@ -1,0 +1,2 @@
+trial,seed,train_acc,test_acc,n_qubits,num_images,maxiter,vary_dataset,vary_split,optimizer
+1,10000,0.7785714285714286,0.8833333333333333,8,200,200,True,True,COBYLA

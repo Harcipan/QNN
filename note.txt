@@ -1,0 +1,14 @@
+custom optimizer is hard to do but has potential
+
+Iteration 0: Loss = 1.044265, LR = 0.010000
+Iteration 1: Loss = 1.039428, LR = 0.010000
+Iteration 2: Loss = 1.045120, LR = 0.010000
+Iteration 3: Loss = 1.042041, LR = 0.010000
+Iteration 4: Loss = 1.038370, LR = 0.010000
+Iteration 5: Loss = 1.034056, LR = 0.010000
+Iteration 6: Loss = 1.042275, LR = 0.010000
+Iteration 7: Loss = 1.037342, LR = 0.010000
+Iteration 8: Loss = 1.028573, LR = 0.010000
+Iteration 9: Loss = 1.020868, LR = 0.010000
+Iteration 10: Loss = 1.012304, LR = 0.010000
+Iteration 20: Loss = 0.991623, LR = 0.010000
